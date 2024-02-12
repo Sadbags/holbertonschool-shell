@@ -1,3 +1,3 @@
 #!/bin/bash
-que revolu
+pwd
 
